@@ -1,0 +1,31 @@
+body {
+     background-color: black;
+     }
+
+*    {
+font: 15px arial;
+     }
+title {
+        color:red;
+      }
+
+p {
+        color:green;
+        font-style:italic
+  }
+
+#header{
+text-align: center}
+li#red{
+
+        color:red;
+        font: 20px arial;}
+
+main {
+        background-color: red;
+     }
+
+footer{
+color:blue;
+      }
+
