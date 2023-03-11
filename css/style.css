@@ -14,3 +14,10 @@
                 align-items: center;
                 justify-content: center;
             }
+
+        body {
+                background-color:grey;
+                
+                font-family: 'Bitter', serif;
+                font-size: x-large; 
+            }
