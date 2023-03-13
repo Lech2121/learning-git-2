@@ -1,4 +1,4 @@
-npm install --save-dev html-validate
-npm exec html-validate index.html
+npm install --save-dev html-validate  
+npm exec html-validate index.html 
 
-npm exec html-validate ./learning-git-2   <---- komenda wyświetli listę błędów we wszystkich plikach html projekcie?
+npm exec html-validate ./learning-git-2   <---- komenda wyświetli listę błędów we wszystkich plikach html w projekcie?
